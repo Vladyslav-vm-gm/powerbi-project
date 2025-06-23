@@ -34,7 +34,7 @@ This dashboard was created as a learning project to explore year-over-year compa
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](dashboard2024.png)
 
 ---
 
